@@ -1,0 +1,59 @@
+{
+  "name": "canvasjs-react-samples-1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@canvasjs/react-charts": "*",
+    "@canvasjs/react-stockcharts": "*",
+    "@nivo/bar": "^0.85.1",
+    "@types/react": ">=16.14.8",
+    "assert": "^2.1.0",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "cloudinary": "^2.1.0",
+    "constants-browserify": "^1.0.0",
+    "crypto-browserify": "^3.12.0",
+    "dns": "^0.2.2",
+    "events": "^3.3.0",
+    "html2canvas": "^1.4.1",
+    "https-browserify": "^1.0.0",
+    "jquery": ">=3.3.1",
+    "net-browserify": "^0.2.4",
+    "path": "^0.12.7",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "punycode": "^2.3.1",
+    "querystring-es3": "^0.2.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.3.1",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "tls-browserify": "^0.2.2",
+    "tty-browserify": "^0.0.1",
+    "url": "^0.11.3",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2",
+    "webpack": "^5.91.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
